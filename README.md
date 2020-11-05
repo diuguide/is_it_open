@@ -1,6 +1,8 @@
 # [Is It open?](https://thadkingcole.github.io/is_it_open)
 
-<img src="./assets/images/screenshot.png">
+<a href="https://thadkingcole.github.io/is_it_open">
+<img src="./assets/images/screenshot.png" width="350">
+</a>
 
 ## Table of Contents
 
