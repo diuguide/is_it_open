@@ -7,13 +7,8 @@
 ## Table of Contents
 
 - [Description](#Description)
-    - [Country](#Country)
-    - [State](#State)
-    - [Country](#county)
-    - [Yelp](#Yelp-Fusion-API)
 - [User Story](#user-story)
 - [Deployed Application](#deployed-application)
-- [Validation Link](#Validation-link)
 - [References](#references)
 - [Collaborators](#collaborators)
 
@@ -82,14 +77,6 @@ As a person suffering from cabin-fever, I want a list of open restaurants/locati
 - Github Repo: <https://github.com/thadkingcole/is_it_open>
 
 [![Deployed Application Screenshot](./assets/images/DeployedApp.gif)](https://thadkingcole.github.io/is_it_open)
-
-[back to top](#is-it-open)
-
-## Validation Link
-
-- [CSS Validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fthadkingcole.github.io%2Fis_it_open%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
-
-- [Nu HTML Checker](https://validator.w3.org/nu/?doc=https%3A%2F%2Fthadkingcole.github.io%2Fis_it_open%2F)
 
 [back to top](#is-it-open)
 
