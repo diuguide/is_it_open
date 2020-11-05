@@ -1,6 +1,6 @@
-# [Is It open?](https://thadkingcole.github.io/is_it_open)
+# [Is It open?](https://diuguide.github.io/is_it_open)
 
-<a href="https://thadkingcole.github.io/is_it_open">
+<a href="https://diuguide.github.io/is_it_open">
 <img src="./assets/images/screenshot.png" width="350">
 </a>
 
@@ -72,11 +72,9 @@ As a person suffering from cabin-fever, I want a list of open restaurants/locati
 
 ## Deployed application
 
-- Deployed Website: <https://thadkingcole.github.io/is_it_open/>
+- Deployed Website: <https://diuguide.github.io/is_it_open/>
 
-- Github Repo: <https://github.com/thadkingcole/is_it_open>
-
-[![Deployed Application Screenshot](./assets/images/DeployedApp.gif)](https://thadkingcole.github.io/is_it_open)
+- Github Repo: <https://github.com/diuguide/is_it_open>
 
 [back to top](#is-it-open)
 
@@ -91,8 +89,8 @@ As a person suffering from cabin-fever, I want a list of open restaurants/locati
 
 ## Collaborators
 
-- [Thad](https://github.com/thadkingcole)
-- [Everett](https://github.com/diuguide)
-- [Luke](https://github.com/TheWintersFox)
+- [Thad Cole](https://github.com/thadkingcole)
+- [Everett Diuguid](https://github.com/diuguide)
+- [Luke Evans](https://github.com/TheWintersFox)
 
 [back to top](#is-it-open)
